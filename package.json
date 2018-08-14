@@ -1,7 +1,9 @@
 {
   "name": "vierbit-static",
   "version": "0.1.0",
-  "private": true,
+  "description": "Vierbit is IT consulting company, Vierbit offers software outsourcing, websites design, mobile application development services for all of the level businesses.",
+  "author": "mj@mojaave.com",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
     "classnames": "^2.2.6",
