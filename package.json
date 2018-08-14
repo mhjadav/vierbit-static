@@ -1,14 +1,19 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "description": "Gatsby hello world starter",
-  "license": "MIT",
-  "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve"
-  },
+  "name": "vierbit-static",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "gatsby": "^1.9.250",
-    "gatsby-link": "^1.6.40"
+    "axios": "^0.18.0",
+    "classnames": "^2.2.6",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   }
 }

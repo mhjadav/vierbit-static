@@ -1,0 +1,29 @@
+{
+ "name": "App",
+ "icons": [
+  {
+   "src": "\/images\/icon\/favicon32.png",
+   "sizes": "36x36",
+   "type": "image\/png",
+   "density": "0.75"
+  },
+  {
+   "src": "\/images\/icon\/favicon16.png",
+   "sizes": "16x16",
+   "type": "image\/png",
+   "density": "1.0"
+  },
+  {
+   "src": "\/images\/icon\/favicon72.png",
+   "sizes": "72x72",
+   "type": "image\/png",
+   "density": "1.5"
+  },
+  {
+   "src": "\/images\/icon\/favicon96.png",
+   "sizes": "96x96",
+   "type": "image\/png",
+   "density": "2.0"
+  }
+ ]
+}
